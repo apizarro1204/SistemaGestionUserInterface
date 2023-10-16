@@ -8,11 +8,13 @@ namespace SistemaGestionUserInterface
     {
         private readonly UsuarioBussiness usuarioBussiness;
         private readonly ProductoBussiness productoBussiness;
-        public formGestion(UsuarioBussiness usuarioBussiness, ProductoBussiness productoBussiness)
+        private readonly VentaBussiness ventaBussiness;
+        public formGestion(UsuarioBussiness usuarioBussiness, ProductoBussiness productoBussiness, VentaBussiness ventaBussiness)
         {
             InitializeComponent();
             this.usuarioBussiness = usuarioBussiness;
             this.productoBussiness = productoBussiness;
+            this.ventaBussiness = ventaBussiness;
         }
 
         private void ActualizarDataGridView()
@@ -146,6 +148,12 @@ namespace SistemaGestionUserInterface
         {
             formEditarProducto formProductos = new formEditarProducto(productoBussiness);
             formProductos.Show();
+        }
+
+        private void btnMostrarVentas_Click(object sender, EventArgs e)
+        {
+            formEditarVenta formVentas = new formEditarVenta(ventaBussiness);
+            formVentas.Show();
         }
     }
 }

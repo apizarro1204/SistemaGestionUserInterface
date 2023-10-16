@@ -11,3 +11,17 @@ C:\Users\sherk\source\repos\SistemaGestionUserInterface\SistemaGestionEntities\o
 C:\Users\sherk\source\repos\SistemaGestionUserInterface\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
 C:\Users\sherk\source\repos\SistemaGestionUserInterface\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.genruntimeconfig.cache
 C:\Users\sherk\source\repos\SistemaGestionUserInterface\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.runtimeconfig.json
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.genruntimeconfig.cache
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.AssemblyReference.cache

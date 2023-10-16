@@ -13,7 +13,7 @@ namespace SistemaGestionData
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            string connectionString = "Server=DANILEXIS\\SQLEXPRESS;Database=CoderHouse;Integrated Security=True;TrustServerCertificate=True;";
+            string connectionString = "Server=PUPPYPORTABLE;Database=CoderHouse;Integrated Security=True;TrustServerCertificate=True;";
             optionsBuilder.UseSqlServer(connectionString);
 
         }

@@ -15,3 +15,20 @@ C:\Users\sherk\source\repos\SistemaGestionUserInterface\SistemaGestionBussiness\
 C:\Users\sherk\source\repos\SistemaGestionUserInterface\SistemaGestionBussiness\obj\Debug\net6.0\refint\SistemaGestionBussiness.dll
 C:\Users\sherk\source\repos\SistemaGestionUserInterface\SistemaGestionBussiness\obj\Debug\net6.0\SistemaGestionBussiness.pdb
 C:\Users\sherk\source\repos\SistemaGestionUserInterface\SistemaGestionBussiness\obj\Debug\net6.0\ref\SistemaGestionBussiness.dll
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionBussiness\bin\Debug\net6.0\SistemaGestionBussiness.deps.json
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionBussiness\bin\Debug\net6.0\SistemaGestionBussiness.dll
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionBussiness\bin\Debug\net6.0\SistemaGestionBussiness.pdb
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionBussiness\bin\Debug\net6.0\SistemaGestionData.dll
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionBussiness\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionBussiness\bin\Debug\net6.0\SistemaGestionData.pdb
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionBussiness\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionBussiness\obj\Debug\net6.0\SistemaGestionBussiness.csproj.AssemblyReference.cache
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionBussiness\obj\Debug\net6.0\SistemaGestionBussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionBussiness\obj\Debug\net6.0\SistemaGestionBussiness.AssemblyInfoInputs.cache
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionBussiness\obj\Debug\net6.0\SistemaGestionBussiness.AssemblyInfo.cs
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionBussiness\obj\Debug\net6.0\SistemaGestionBussiness.csproj.CoreCompileInputs.cache
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionBussiness\obj\Debug\net6.0\SistemaGestionBussiness.csproj.CopyComplete
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionBussiness\obj\Debug\net6.0\SistemaGestionBussiness.dll
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionBussiness\obj\Debug\net6.0\refint\SistemaGestionBussiness.dll
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionBussiness\obj\Debug\net6.0\SistemaGestionBussiness.pdb
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionBussiness\obj\Debug\net6.0\ref\SistemaGestionBussiness.dll

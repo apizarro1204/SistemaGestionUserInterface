@@ -15,3 +15,20 @@ C:\Users\sherk\source\repos\SistemaGestionUserInterface\SistemaGestionData\obj\D
 C:\Users\sherk\source\repos\SistemaGestionUserInterface\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.pdb
 C:\Users\sherk\source\repos\SistemaGestionUserInterface\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.genruntimeconfig.cache
 C:\Users\sherk\source\repos\SistemaGestionUserInterface\SistemaGestionData\obj\Debug\net6.0\ref\SistemaGestionData.dll
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.deps.json
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.runtimeconfig.json
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.dll
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.pdb
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.AssemblyReference.cache
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfoInputs.cache
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfo.cs
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CopyComplete
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.dll
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionData\obj\Debug\net6.0\refint\SistemaGestionData.dll
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.pdb
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.genruntimeconfig.cache
+C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionData\obj\Debug\net6.0\ref\SistemaGestionData.dll

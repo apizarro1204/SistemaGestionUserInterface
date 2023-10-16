@@ -22,14 +22,12 @@ namespace SistemaGestionUserInterface
             // Verifica si el usuario no es nulo
             if (usuario != null)
             {
-                // Configura las columnas del DataGridView (si no lo has hecho en el diseñador)
                 if (dgUsuario.Columns.Count == 0)
                 {
                     dgUsuario.Columns.Add("Propiedad", "Propiedad");
                     dgUsuario.Columns.Add("Valor", "Valor");
                 }
 
-                // Agrega filas al DataGridView
                 dgUsuario.Rows.Add("Nombre:", usuario.Nombre);
                 dgUsuario.Rows.Add("Apellido:", usuario.Apellido);
                 dgUsuario.Rows.Add("Nombre de Usuario:", usuario.NombreUsuario);
@@ -50,16 +48,13 @@ namespace SistemaGestionUserInterface
             string nuevoNombreUsuario = txtNombreUsuario.Text;
             string nuevaContraseña = txtContraseña.Text;
 
-            // Actualiza el objeto usuario con los nuevos valores
             usuario.Nombre = nuevoNombre;
             usuario.Apellido = nuevoApellido;
             usuario.NombreUsuario = nuevoNombreUsuario;
             usuario.Contraseña = nuevaContraseña;
 
-            // Guarda los cambios en la base de datos utilizando UsuarioBussiness
             usuarioBussiness.EditarUsuario(usuario);
 
-            // Cerrar el formulario de edición
             DialogResult = DialogResult.OK;
             Close();
         }
