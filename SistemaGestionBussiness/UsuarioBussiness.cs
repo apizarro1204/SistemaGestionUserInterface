@@ -41,5 +41,12 @@ namespace SistemaGestionBussiness
                 Console.WriteLine("Error al eliminar el usuario: " + ex.Message);
             }
         }
+
+        public Usuario? ObtenerUsuarioPorId(int usuarioId)
+        {
+            return usuarioData.ObtenerUsuarioPorId(usuarioId);
+        }
+
+
     }
 }

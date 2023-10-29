@@ -13,15 +13,8 @@ namespace SistemaGestionBussiness
         {
             this.ventaData = ventaData;
         }
-
-        public Venta CrearVenta(string comentarios, int idUsuario)
+        public Venta CrearVenta(Venta nuevaVenta)
         {
-            Venta nuevaVenta = new Venta
-            {
-                Comentarios = comentarios,
-                IdUsuario = idUsuario
-            };
-
             return ventaData.CrearVenta(nuevaVenta);
         }
 
@@ -33,6 +26,16 @@ namespace SistemaGestionBussiness
         public Venta? ObtenerVentaPorId(int id)
         {
             return ventaData.ObtenerVentaPorId(id);
+        }
+
+        public void ActualizarVenta(Venta venta)
+        {
+            ventaData.ActualizarVenta(venta);
+        }
+
+        public void EliminarVenta(int id)
+        {
+            ventaData.EliminarVenta(id);
         }
     }
 }

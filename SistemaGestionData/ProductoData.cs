@@ -38,7 +38,6 @@ namespace SistemaGestionData
 
             if (existingProduct != null)
             {
-                // Aplicar reglas de validación o ajustes necesarios antes de editar el producto
                 existingProduct.Descripcion = producto.Descripcion ?? existingProduct.Descripcion;
                 existingProduct.Costo = Math.Max(producto.Costo, 0);
                 existingProduct.PrecioVenta = Math.Max(producto.PrecioVenta, 0);
@@ -58,6 +57,11 @@ namespace SistemaGestionData
                 dbContext.Productos.Remove(producto);
                 dbContext.SaveChanges();
             }
+        }
+
+        public Producto? ObtenerProductoPorId(int id)
+        {
+            return dbContext.Productos.FirstOrDefault(u => u.Id == id);
         }
     }
 }

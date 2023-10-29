@@ -64,5 +64,11 @@ namespace SistemaGestionData
                 dbContext.SaveChanges();
             }
         }
+
+        public Usuario? ObtenerUsuarioPorId(int usuarioId)
+        {
+            return dbContext.Usuarios.FirstOrDefault(u => u.Id == usuarioId);
+        }
+
     }
 }
