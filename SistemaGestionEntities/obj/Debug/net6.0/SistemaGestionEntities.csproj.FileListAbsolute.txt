@@ -25,3 +25,4 @@ C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionEntities\obj\De
 C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.genruntimeconfig.cache
 C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll
 C:\Programacion Alexis\SistemaGestionUserInterface\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.AssemblyReference.cache
+C:\Users\sherk\source\repos\SistemaGestionUserInterface\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.AssemblyReference.cache

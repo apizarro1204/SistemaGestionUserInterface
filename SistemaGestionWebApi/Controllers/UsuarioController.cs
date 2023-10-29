@@ -92,8 +92,5 @@ namespace SistemaGestionWebApi.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, "Error interno del servidor: " + ex.Message);
             }
         }
-
-
-
     }
 }

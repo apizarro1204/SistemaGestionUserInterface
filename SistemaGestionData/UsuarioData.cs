@@ -24,22 +24,10 @@ namespace SistemaGestionData
         public void CrearUsuario(Usuario nuevoUsuario)
         {
             // Si alguna propiedad es nula, asigna valores predeterminados
-            if (nuevoUsuario.Nombre == null)
-            {
-                nuevoUsuario.Nombre = "Sin Nombre";
-            }
-            if (nuevoUsuario.Apellido == null)
-            {
-                nuevoUsuario.Apellido = "Sin Apellido";
-            }
-            if (nuevoUsuario.NombreUsuario == null)
-            {
-                nuevoUsuario.NombreUsuario = "Sin Nombre de usuario";
-            }
-            if (nuevoUsuario.Contraseña == null)
-            {
-                nuevoUsuario.Contraseña = "Sin Contraseña";
-            }
+            nuevoUsuario.Nombre ??= "Sin Nombre";
+            nuevoUsuario.Apellido ??= "Sin Apellido";
+            nuevoUsuario.NombreUsuario ??= "Sin Nombre de usuario";
+            nuevoUsuario.Contraseña ??= "Sin Contraseña";
 
             dbContext.Usuarios.Add(nuevoUsuario);
             dbContext.SaveChanges();

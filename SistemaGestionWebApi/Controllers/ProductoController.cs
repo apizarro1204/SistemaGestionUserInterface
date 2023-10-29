@@ -42,7 +42,7 @@ namespace SistemaGestionWebApi.Controllers
         {
             try
             {
-                producto.Id = id; // Establecer el ID del producto que se va a editar
+                producto.Id = id;
                 _productoBussiness.EditarProducto(producto);
                 return NoContent();
             }

@@ -21,7 +21,6 @@ namespace SistemaGestionData
 
         public void CrearProducto(Producto nuevoProducto)
         {
-            // Aplicar reglas de validación o ajustes necesarios antes de crear el producto
             nuevoProducto.Descripcion ??= "Sin Descripción";
             nuevoProducto.Costo = Math.Max(nuevoProducto.Costo, 0);
             nuevoProducto.PrecioVenta = Math.Max(nuevoProducto.PrecioVenta, 0);
